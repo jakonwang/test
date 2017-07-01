@@ -10,3 +10,4 @@ ha ha;
 new update;
 I'm jakonwang;
 haha fasfwefwe;
+git is a free softward;
